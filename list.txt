@@ -1,4 +1,21 @@
-# cause 
+# Title: amstr/list
+#
+# Date: 19 August 2024 01:39:16 (UTC)
+# Number of unique domains: 5
+#
+# Fetch the latest version of this file: 
+# Project home page: 
+# Project releases: 
+#
+# ===============================================================
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start Title
+
+#=====================================
+# Title: Title
 0.0.0.0 bestbuy.ca
 0.0.0.0 www.bestbuy.ca
 0.0.0.0 www.bestbuy.com
