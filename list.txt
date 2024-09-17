@@ -23,4 +23,4 @@
 0.0.0.0 merchandising-assets.bestbuy.ca
 0.0.0.0 lunchly.com
 0.0.0.0 feastables.com
-0.0.0.0 https://drinkprime.com/
+0.0.0.0 drinkprime.com
