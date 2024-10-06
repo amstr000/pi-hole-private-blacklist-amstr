@@ -16,11 +16,6 @@
 
 #=====================================
 # Title: Title
-0.0.0.0 bestbuy.ca
-0.0.0.0 www.bestbuy.ca
-0.0.0.0 www.bestbuy.com
-0.0.0.0 bestbuy.com
-0.0.0.0 merchandising-assets.bestbuy.ca
 0.0.0.0 lunchly.com
 0.0.0.0 feastables.com
 0.0.0.0 drinkprime.com
