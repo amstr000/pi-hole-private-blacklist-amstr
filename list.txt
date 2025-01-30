@@ -19,3 +19,4 @@
 0.0.0.0 lunchly.com
 0.0.0.0 feastables.com
 0.0.0.0 drinkprime.com
+0.0.0.0 truthsocial.com
